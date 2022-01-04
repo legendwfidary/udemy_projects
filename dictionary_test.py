@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 travel_log = [
 {
@@ -35,6 +36,8 @@ print(travel_log)
 >>>>>>> origin/main
 =======
 >>>>>>> origin/main
+=======
+>>>>>>> origin/main
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -64,12 +67,16 @@ for student in student_scores:
 # 🚨 Don't change the code below 👇
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 print(student_grades)
 
 
 print(student_grades)
 
+=======
+print(student_grades)
+>>>>>>> origin/main
 =======
 print(student_grades)
 >>>>>>> origin/main
