@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 travel_log = [
 {
   "country": "France",
@@ -27,7 +27,8 @@ def add_new_country(country, total_visits, cities_visited):
 #🚨 Do not change the code below
 add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 print(travel_log)
-=======
+
+
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -55,5 +56,9 @@ for student in student_scores:
 
 
 # 🚨 Don't change the code below 👇
+
 print(student_grades)
->>>>>>> origin/main
+
+
+print(student_grades)
+
