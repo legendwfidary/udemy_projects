@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 travel_log = [
 {
@@ -29,6 +30,8 @@ add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 print(travel_log)
 
 
+=======
+>>>>>>> origin/main
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -56,9 +59,13 @@ for student in student_scores:
 
 
 # 🚨 Don't change the code below 👇
+<<<<<<< HEAD
 
 print(student_grades)
 
 
 print(student_grades)
 
+=======
+print(student_grades)
+>>>>>>> origin/main
