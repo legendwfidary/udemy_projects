@@ -10,6 +10,7 @@ programming_dictionary = {
 # how to retrieve specific info abut differentkeys in dictionary.
 # print(programming_dictionary['bug'])
 
+# points: you can only have one dictionary inside another dictionary, if you want to, make the outer dictionary into a list so that you can have multiple dictionaries.
 #an empty dictionary
 empty_dictionary = {}
 
