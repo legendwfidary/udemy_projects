@@ -22,6 +22,7 @@ empty_dictionary = {}
 programming_dictionary['bug'] =  'a moth in your computer.'
 #print(programming_dictionary)
 
+
 #looping through a dictionary
 for key in programming_dictionary:
   print(key) # will obtain all the keys
