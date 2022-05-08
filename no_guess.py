@@ -46,3 +46,23 @@ def play_game():
     
 
 play_game()
+
+# local scope: it is for variables or functions that are made within other functions so it can only be accessed inside said function which means that variable or function has local scope.
+# global scope: it is a function or variable that is accessible both inside and outside functions.
+# namespace: anything you give a name to has a namespace and each namespace has a certain scope.
+# note: there is no block scope in python i.e: if you create a variable in a loop or a statement, it can be accessed both inside and outside it (it's a gloabl variable) but when it's in a function, it becomes a local variable.
+
+# Modifying global scope
+# note: as much as you can, avoid modifying variables inside functions, instead try to use return.
+'''enemies = 1
+
+def increase_enemies():
+  global enemies
+  enemies += 1
+  print(f"enemies inside function: {enemies}")
+
+increase_enemies()
+print(f"enemies outside function: {enemies}")
+'''
+
+# Global constants
